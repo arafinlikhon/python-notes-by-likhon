@@ -69,3 +69,5 @@ note = """
 """
 
 print(note)
+
+#Run this code in to your IDE to understant it much better
